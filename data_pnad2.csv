@@ -1,0 +1,649 @@
+,trimestre,uf_nome,variavel,condicao,valor,uf,trimestre_fim
+1,202001,Rondônia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",337,RO,202003
+2,202001,Rondônia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,46,RO,202003
+3,202001,Rondônia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,124,RO,202003
+4,202001,Rondônia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,38,RO,202003
+5,202001,Rondônia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,31,RO,202003
+6,202001,Rondônia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,241,RO,202003
+7,202002,Rondônia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",288,RO,202006
+8,202002,Rondônia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,28,RO,202006
+9,202002,Rondônia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,122,RO,202006
+10,202002,Rondônia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,47,RO,202006
+11,202002,Rondônia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,21,RO,202006
+12,202002,Rondônia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,225,RO,202006
+13,202003,Rondônia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",296,RO,202009
+14,202003,Rondônia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,31,RO,202009
+15,202003,Rondônia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,109,RO,202009
+16,202003,Rondônia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,37,RO,202009
+17,202003,Rondônia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,18,RO,202009
+18,202003,Rondônia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,229,RO,202009
+19,202004,Rondônia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",310,RO, 202012
+20,202004,Rondônia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,33,RO, 202012
+21,202004,Rondônia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,108,RO, 202012
+22,202004,Rondônia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,31,RO, 202012
+23,202004,Rondônia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,27,RO, 202012
+24,202004,Rondônia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,243,RO, 202012
+25,202001,Acre,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",99,AC,202003
+26,202001,Acre,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,18,AC,202003
+27,202001,Acre,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,59,AC,202003
+28,202001,Acre,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,14,AC,202003
+29,202001,Acre,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,8,AC,202003
+30,202001,Acre,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,96,AC,202003
+31,202002,Acre,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",93,AC,202006
+32,202002,Acre,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,16,AC,202006
+33,202002,Acre,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,67,AC,202006
+34,202002,Acre,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,17,AC,202006
+35,202002,Acre,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,9,AC,202006
+36,202002,Acre,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,87,AC,202006
+37,202003,Acre,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",92,AC,202009
+38,202003,Acre,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,11,AC,202009
+39,202003,Acre,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,74,AC,202009
+40,202003,Acre,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,11,AC,202009
+41,202003,Acre,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,8,AC,202009
+42,202003,Acre,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,81,AC,202009
+43,202004,Acre,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",106,AC, 202012
+44,202004,Acre,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,15,AC, 202012
+45,202004,Acre,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,68,AC, 202012
+46,202004,Acre,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,7,AC, 202012
+47,202004,Acre,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,10,AC, 202012
+48,202004,Acre,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,96,AC, 202012
+49,202001,Amazonas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",562,AM,202003
+50,202001,Amazonas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,65,AM,202003
+51,202001,Amazonas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,240,AM,202003
+52,202001,Amazonas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,163,AM,202003
+53,202001,Amazonas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,44,AM,202003
+54,202001,Amazonas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,555,AM,202003
+55,202002,Amazonas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",493,AM,202006
+56,202002,Amazonas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,58,AM,202006
+57,202002,Amazonas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,251,AM,202006
+58,202002,Amazonas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,156,AM,202006
+59,202002,Amazonas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,39,AM,202006
+60,202002,Amazonas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,463,AM,202006
+61,202003,Amazonas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",513,AM,202009
+62,202003,Amazonas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,59,AM,202009
+63,202003,Amazonas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,257,AM,202009
+64,202003,Amazonas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,159,AM,202009
+65,202003,Amazonas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,33,AM,202009
+66,202003,Amazonas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,508,AM,202009
+67,202004,Amazonas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",546,AM, 202012
+68,202004,Amazonas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,61,AM, 202012
+69,202004,Amazonas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,242,AM, 202012
+70,202004,Amazonas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,161,AM, 202012
+71,202004,Amazonas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,39,AM, 202012
+72,202004,Amazonas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,534,AM, 202012
+73,202001,Roraima,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",71,RR,202003
+74,202001,Roraima,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,16,RR,202003
+75,202001,Roraima,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,52,RR,202003
+76,202001,Roraima,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,3,RR,202003
+77,202001,Roraima,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,11,RR,202003
+78,202001,Roraima,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,58,RR,202003
+79,202002,Roraima,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",62,RR,202006
+80,202002,Roraima,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,12,RR,202006
+81,202002,Roraima,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,53,RR,202006
+82,202002,Roraima,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,4,RR,202006
+83,202002,Roraima,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,6,RR,202006
+84,202002,Roraima,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,53,RR,202006
+85,202003,Roraima,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",62,RR,202009
+86,202003,Roraima,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,14,RR,202009
+87,202003,Roraima,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,51,RR,202009
+88,202003,Roraima,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,4,RR,202009
+89,202003,Roraima,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,5,RR,202009
+90,202003,Roraima,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,56,RR,202009
+91,202004,Roraima,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",68,RR, 202012
+92,202004,Roraima,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,19,RR, 202012
+93,202004,Roraima,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,51,RR, 202012
+94,202004,Roraima,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,5,RR, 202012
+95,202004,Roraima,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,5,RR, 202012
+96,202004,Roraima,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,62,RR, 202012
+97,202001,Pará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",1268,PA,202003
+98,202001,Pará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,193,PA,202003
+99,202001,Pará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,501,PA,202003
+100,202001,Pará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,190,PA,202003
+101,202001,Pará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,111,PA,202003
+102,202001,Pará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,1192,PA,202003
+103,202002,Pará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",1178,PA,202006
+104,202002,Pará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,149,PA,202006
+105,202002,Pará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,548,PA,202006
+106,202002,Pará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,188,PA,202006
+107,202002,Pará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,125,PA,202006
+108,202002,Pará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,1028,PA,202006
+109,202003,Pará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",1258,PA,202009
+110,202003,Pará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,189,PA,202009
+111,202003,Pará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,469,PA,202009
+112,202003,Pará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,211,PA,202009
+113,202003,Pará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,126,PA,202009
+114,202003,Pará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,1041,PA,202009
+115,202004,Pará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",1395,PA, 202012
+116,202004,Pará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,172,PA, 202012
+117,202004,Pará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,508,PA, 202012
+118,202004,Pará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,176,PA, 202012
+119,202004,Pará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,122,PA, 202012
+120,202004,Pará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,1046,PA, 202012
+121,202001,Amapá,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",84,AP,202003
+122,202001,Amapá,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,20,AP,202003
+123,202001,Amapá,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,70,AP,202003
+124,202001,Amapá,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,10,AP,202003
+125,202001,Amapá,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,9,AP,202003
+126,202001,Amapá,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,127,AP,202003
+127,202002,Amapá,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",90,AP,202006
+128,202002,Amapá,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,13,AP,202006
+129,202002,Amapá,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,75,AP,202006
+130,202002,Amapá,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,5,AP,202006
+131,202002,Amapá,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,8,AP,202006
+132,202002,Amapá,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,112,AP,202006
+133,202003,Amapá,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",91,AP,202009
+134,202003,Amapá,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,10,AP,202009
+135,202003,Amapá,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,80,AP,202009
+136,202003,Amapá,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,5,AP,202009
+137,202003,Amapá,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,6,AP,202009
+138,202003,Amapá,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,107,AP,202009
+139,202004,Amapá,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",90,AP, 202012
+140,202004,Amapá,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,13,AP, 202012
+141,202004,Amapá,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,78,AP, 202012
+142,202004,Amapá,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,8,AP, 202012
+143,202004,Amapá,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,9,AP, 202012
+144,202004,Amapá,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,114,AP, 202012
+145,202001,Tocantins,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",236,TO,202003
+146,202001,Tocantins,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,44,TO,202003
+147,202001,Tocantins,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,150,TO,202003
+148,202001,Tocantins,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,15,TO,202003
+149,202001,Tocantins,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,28,TO,202003
+150,202001,Tocantins,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,171,TO,202003
+151,202002,Tocantins,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",225,TO,202006
+152,202002,Tocantins,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,52,TO,202006
+153,202002,Tocantins,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,133,TO,202006
+154,202002,Tocantins,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,17,TO,202006
+155,202002,Tocantins,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,31,TO,202006
+156,202002,Tocantins,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,145,TO,202006
+157,202003,Tocantins,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",213,TO,202009
+158,202003,Tocantins,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,42,TO,202009
+159,202003,Tocantins,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,133,TO,202009
+160,202003,Tocantins,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,18,TO,202009
+161,202003,Tocantins,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,29,TO,202009
+162,202003,Tocantins,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,151,TO,202009
+163,202004,Tocantins,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",224,TO, 202012
+164,202004,Tocantins,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,38,TO, 202012
+165,202004,Tocantins,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,160,TO, 202012
+166,202004,Tocantins,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,19,TO, 202012
+167,202004,Tocantins,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,23,TO, 202012
+168,202004,Tocantins,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,174,TO, 202012
+169,202001,Maranhão,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",858,MA,202003
+170,202001,Maranhão,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,155,MA,202003
+171,202001,Maranhão,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,355,MA,202003
+172,202001,Maranhão,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,73,MA,202003
+173,202001,Maranhão,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,59,MA,202003
+174,202001,Maranhão,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,712,MA,202003
+175,202002,Maranhão,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",765,MA,202006
+176,202002,Maranhão,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,114,MA,202006
+177,202002,Maranhão,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,357,MA,202006
+178,202002,Maranhão,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,69,MA,202006
+179,202002,Maranhão,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,52,MA,202006
+180,202002,Maranhão,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,626,MA,202006
+181,202003,Maranhão,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",752,MA,202009
+182,202003,Maranhão,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,121,MA,202009
+183,202003,Maranhão,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,343,MA,202009
+184,202003,Maranhão,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,55,MA,202009
+185,202003,Maranhão,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,56,MA,202009
+186,202003,Maranhão,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,664,MA,202009
+187,202004,Maranhão,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",817,MA, 202012
+188,202004,Maranhão,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,142,MA, 202012
+189,202004,Maranhão,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,354,MA, 202012
+190,202004,Maranhão,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,55,MA, 202012
+191,202004,Maranhão,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,53,MA, 202012
+192,202004,Maranhão,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,716,MA, 202012
+193,202001,Piauí,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",425,PI,202003
+194,202001,Piauí,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,90,PI,202003
+195,202001,Piauí,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,184,PI,202003
+196,202001,Piauí,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,94,PI,202003
+197,202001,Piauí,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,48,PI,202003
+198,202001,Piauí,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,391,PI,202003
+199,202002,Piauí,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",386,PI,202006
+200,202002,Piauí,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,77,PI,202006
+201,202002,Piauí,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,189,PI,202006
+202,202002,Piauí,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,58,PI,202006
+203,202002,Piauí,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,41,PI,202006
+204,202002,Piauí,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,301,PI,202006
+205,202003,Piauí,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",422,PI,202009
+206,202003,Piauí,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,79,PI,202009
+207,202003,Piauí,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,189,PI,202009
+208,202003,Piauí,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,70,PI,202009
+209,202003,Piauí,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,39,PI,202009
+210,202003,Piauí,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,345,PI,202009
+211,202004,Piauí,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",443,PI, 202012
+212,202004,Piauí,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,79,PI, 202012
+213,202004,Piauí,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,190,PI, 202012
+214,202004,Piauí,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,64,PI, 202012
+215,202004,Piauí,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,38,PI, 202012
+216,202004,Piauí,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,386,PI, 202012
+217,202001,Ceará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",1626,CE,202003
+218,202001,Ceará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,260,CE,202003
+219,202001,Ceará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,472,CE,202003
+220,202001,Ceará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,97,CE,202003
+221,202001,Ceará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,146,CE,202003
+222,202001,Ceará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,1030,CE,202003
+223,202002,Ceará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",1357,CE,202006
+224,202002,Ceará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,169,CE,202006
+225,202002,Ceará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,507,CE,202006
+226,202002,Ceará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,80,CE,202006
+227,202002,Ceará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,122,CE,202006
+228,202002,Ceará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,923,CE,202006
+229,202003,Ceará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",1345,CE,202009
+230,202003,Ceará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,178,CE,202009
+231,202003,Ceará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,443,CE,202009
+232,202003,Ceará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,99,CE,202009
+233,202003,Ceará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,111,CE,202009
+234,202003,Ceará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,922,CE,202009
+235,202004,Ceará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",1471,CE, 202012
+236,202004,Ceará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,192,CE, 202012
+237,202004,Ceará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,430,CE, 202012
+238,202004,Ceará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,95,CE, 202012
+239,202004,Ceará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,130,CE, 202012
+240,202004,Ceará,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,982,CE, 202012
+241,202001,Rio Grande do Norte,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",555,RN,202003
+242,202001,Rio Grande do Norte,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,92,RN,202003
+243,202001,Rio Grande do Norte,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,228,RN,202003
+244,202001,Rio Grande do Norte,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,22,RN,202003
+245,202001,Rio Grande do Norte,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,53,RN,202003
+246,202001,Rio Grande do Norte,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,371,RN,202003
+247,202002,Rio Grande do Norte,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",497,RN,202006
+248,202002,Rio Grande do Norte,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,53,RN,202006
+249,202002,Rio Grande do Norte,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,251,RN,202006
+250,202002,Rio Grande do Norte,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,21,RN,202006
+251,202002,Rio Grande do Norte,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,49,RN,202006
+252,202002,Rio Grande do Norte,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,286,RN,202006
+253,202003,Rio Grande do Norte,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",497,RN,202009
+254,202003,Rio Grande do Norte,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,67,RN,202009
+255,202003,Rio Grande do Norte,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,214,RN,202009
+256,202003,Rio Grande do Norte,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,17,RN,202009
+257,202003,Rio Grande do Norte,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,47,RN,202009
+258,202003,Rio Grande do Norte,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,312,RN,202009
+259,202004,Rio Grande do Norte,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",539,RN, 202012
+260,202004,Rio Grande do Norte,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,70,RN, 202012
+261,202004,Rio Grande do Norte,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,227,RN, 202012
+262,202004,Rio Grande do Norte,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,24,RN, 202012
+263,202004,Rio Grande do Norte,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,54,RN, 202012
+264,202004,Rio Grande do Norte,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,358,RN, 202012
+265,202001,Paraíba,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",577,PB,202003
+266,202001,Paraíba,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,96,PB,202003
+267,202001,Paraíba,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,247,PB,202003
+268,202001,Paraíba,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,34,PB,202003
+269,202001,Paraíba,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,53,PB,202003
+270,202001,Paraíba,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,433,PB,202003
+271,202002,Paraíba,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",452,PB,202006
+272,202002,Paraíba,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,71,PB,202006
+273,202002,Paraíba,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,246,PB,202006
+274,202002,Paraíba,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,25,PB,202006
+275,202002,Paraíba,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,55,PB,202006
+276,202002,Paraíba,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,437,PB,202006
+277,202003,Paraíba,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",467,PB,202009
+278,202003,Paraíba,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,66,PB,202009
+279,202003,Paraíba,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,263,PB,202009
+280,202003,Paraíba,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,25,PB,202009
+281,202003,Paraíba,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,46,PB,202009
+282,202003,Paraíba,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,386,PB,202009
+283,202004,Paraíba,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",476,PB, 202012
+284,202004,Paraíba,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,77,PB, 202012
+285,202004,Paraíba,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,288,PB, 202012
+286,202004,Paraíba,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,27,PB, 202012
+287,202004,Paraíba,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,45,PB, 202012
+288,202004,Paraíba,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,448,PB, 202012
+289,202001,Pernambuco,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",1651,PE,202003
+290,202001,Pernambuco,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,187,PE,202003
+291,202001,Pernambuco,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,487,PE,202003
+292,202001,Pernambuco,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,56,PE,202003
+293,202001,Pernambuco,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,134,PE,202003
+294,202001,Pernambuco,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,1001,PE,202003
+295,202002,Pernambuco,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",1395,PE,202006
+296,202002,Pernambuco,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,147,PE,202006
+297,202002,Pernambuco,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,489,PE,202006
+298,202002,Pernambuco,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,52,PE,202006
+299,202002,Pernambuco,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,111,PE,202006
+300,202002,Pernambuco,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,847,PE,202006
+301,202003,Pernambuco,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",1388,PE,202009
+302,202003,Pernambuco,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,147,PE,202009
+303,202003,Pernambuco,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,405,PE,202009
+304,202003,Pernambuco,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,52,PE,202009
+305,202003,Pernambuco,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,118,PE,202009
+306,202003,Pernambuco,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,859,PE,202009
+307,202004,Pernambuco,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",1457,PE, 202012
+308,202004,Pernambuco,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,156,PE, 202012
+309,202004,Pernambuco,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,430,PE, 202012
+310,202004,Pernambuco,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,50,PE, 202012
+311,202004,Pernambuco,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,119,PE, 202012
+312,202004,Pernambuco,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,1009,PE, 202012
+313,202001,Alagoas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",451,AL,202003
+314,202001,Alagoas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,64,AL,202003
+315,202001,Alagoas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,176,AL,202003
+316,202001,Alagoas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,22,AL,202003
+317,202001,Alagoas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,31,AL,202003
+318,202001,Alagoas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,276,AL,202003
+319,202002,Alagoas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",382,AL,202006
+320,202002,Alagoas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,55,AL,202006
+321,202002,Alagoas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,176,AL,202006
+322,202002,Alagoas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,28,AL,202006
+323,202002,Alagoas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,30,AL,202006
+324,202002,Alagoas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,239,AL,202006
+325,202003,Alagoas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",379,AL,202009
+326,202003,Alagoas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,52,AL,202009
+327,202003,Alagoas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,179,AL,202009
+328,202003,Alagoas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,31,AL,202009
+329,202003,Alagoas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,22,AL,202009
+330,202003,Alagoas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,232,AL,202009
+331,202004,Alagoas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",453,AL, 202012
+332,202004,Alagoas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,58,AL, 202012
+333,202004,Alagoas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,205,AL, 202012
+334,202004,Alagoas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,27,AL, 202012
+335,202004,Alagoas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,33,AL, 202012
+336,202004,Alagoas,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,239,AL, 202012
+337,202001,Sergipe,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",414,SE,202003
+338,202001,Sergipe,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,61,SE,202003
+339,202001,Sergipe,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,120,SE,202003
+340,202001,Sergipe,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,23,SE,202003
+341,202001,Sergipe,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,42,SE,202003
+342,202001,Sergipe,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,252,SE,202003
+343,202002,Sergipe,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",345,SE,202006
+344,202002,Sergipe,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,50,SE,202006
+345,202002,Sergipe,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,127,SE,202006
+346,202002,Sergipe,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,17,SE,202006
+347,202002,Sergipe,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,37,SE,202006
+348,202002,Sergipe,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,225,SE,202006
+349,202003,Sergipe,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",350,SE,202009
+350,202003,Sergipe,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,40,SE,202009
+351,202003,Sergipe,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,119,SE,202009
+352,202003,Sergipe,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,24,SE,202009
+353,202003,Sergipe,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,32,SE,202009
+354,202003,Sergipe,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,219,SE,202009
+355,202004,Sergipe,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",378,SE, 202012
+356,202004,Sergipe,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,31,SE, 202012
+357,202004,Sergipe,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,123,SE, 202012
+358,202004,Sergipe,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,30,SE, 202012
+359,202004,Sergipe,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,42,SE, 202012
+360,202004,Sergipe,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,259,SE, 202012
+361,202001,Bahia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",2534,BA,202003
+362,202001,Bahia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,379,BA,202003
+363,202001,Bahia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,767,BA,202003
+364,202001,Bahia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,189,BA,202003
+365,202001,Bahia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,216,BA,202003
+366,202001,Bahia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,1662,BA,202003
+367,202002,Bahia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",2060,BA,202006
+368,202002,Bahia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,260,BA,202006
+369,202002,Bahia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,814,BA,202006
+370,202002,Bahia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,148,BA,202006
+371,202002,Bahia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,182,BA,202006
+372,202002,Bahia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,1405,BA,202006
+373,202003,Bahia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",2140,BA,202009
+374,202003,Bahia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,249,BA,202009
+375,202003,Bahia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,750,BA,202009
+376,202003,Bahia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,195,BA,202009
+377,202003,Bahia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,175,BA,202009
+378,202003,Bahia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,1416,BA,202009
+379,202004,Bahia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",2300,BA, 202012
+380,202004,Bahia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,291,BA, 202012
+381,202004,Bahia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,738,BA, 202012
+382,202004,Bahia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,184,BA, 202012
+383,202004,Bahia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,177,BA, 202012
+384,202004,Bahia,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,1553,BA, 202012
+385,202001,Minas Gerais,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",4932,MG,202003
+386,202001,Minas Gerais,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,716,MG,202003
+387,202001,Minas Gerais,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,1182,MG,202003
+388,202001,Minas Gerais,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,201,MG,202003
+389,202001,Minas Gerais,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,518,MG,202003
+390,202001,Minas Gerais,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,2418,MG,202003
+391,202002,Minas Gerais,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",4532,MG,202006
+392,202002,Minas Gerais,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,570,MG,202006
+393,202002,Minas Gerais,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,1231,MG,202006
+394,202002,Minas Gerais,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,226,MG,202006
+395,202002,Minas Gerais,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,450,MG,202006
+396,202002,Minas Gerais,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,2112,MG,202006
+397,202003,Minas Gerais,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",4557,MG,202009
+398,202003,Minas Gerais,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,578,MG,202009
+399,202003,Minas Gerais,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,1191,MG,202009
+400,202003,Minas Gerais,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,228,MG,202009
+401,202003,Minas Gerais,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,430,MG,202009
+402,202003,Minas Gerais,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,2177,MG,202009
+403,202004,Minas Gerais,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",4601,MG, 202012
+404,202004,Minas Gerais,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,624,MG, 202012
+405,202004,Minas Gerais,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,1227,MG, 202012
+406,202004,Minas Gerais,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,236,MG, 202012
+407,202004,Minas Gerais,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,444,MG, 202012
+408,202004,Minas Gerais,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,2309,MG, 202012
+409,202001,Espírito Santo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",931,ES,202003
+410,202001,Espírito Santo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,113,ES,202003
+411,202001,Espírito Santo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,226,ES,202003
+412,202001,Espírito Santo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,73,ES,202003
+413,202001,Espírito Santo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,90,ES,202003
+414,202001,Espírito Santo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,478,ES,202003
+415,202002,Espírito Santo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",827,ES,202006
+416,202002,Espírito Santo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,86,ES,202006
+417,202002,Espírito Santo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,253,ES,202006
+418,202002,Espírito Santo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,65,ES,202006
+419,202002,Espírito Santo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,95,ES,202006
+420,202002,Espírito Santo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,441,ES,202006
+421,202003,Espírito Santo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",819,ES,202009
+422,202003,Espírito Santo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,87,ES,202009
+423,202003,Espírito Santo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,239,ES,202009
+424,202003,Espírito Santo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,89,ES,202009
+425,202003,Espírito Santo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,81,ES,202009
+426,202003,Espírito Santo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,477,ES,202009
+427,202004,Espírito Santo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",853,ES, 202012
+428,202004,Espírito Santo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,76,ES, 202012
+429,202004,Espírito Santo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,233,ES, 202012
+430,202004,Espírito Santo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,83,ES, 202012
+431,202004,Espírito Santo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,86,ES, 202012
+432,202004,Espírito Santo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,487,ES, 202012
+433,202001,Rio de Janeiro,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",3570,RJ,202003
+434,202001,Rio de Janeiro,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,496,RJ,202003
+435,202001,Rio de Janeiro,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,1118,RJ,202003
+436,202001,Rio de Janeiro,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,26,RJ,202003
+437,202001,Rio de Janeiro,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,260,RJ,202003
+438,202001,Rio de Janeiro,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,2158,RJ,202003
+439,202002,Rio de Janeiro,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",3154,RJ,202006
+440,202002,Rio de Janeiro,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,350,RJ,202006
+441,202002,Rio de Janeiro,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,1161,RJ,202006
+442,202002,Rio de Janeiro,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,16,RJ,202006
+443,202002,Rio de Janeiro,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,235,RJ,202006
+444,202002,Rio de Janeiro,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,1784,RJ,202006
+445,202003,Rio de Janeiro,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",3081,RJ,202009
+446,202003,Rio de Janeiro,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,374,RJ,202009
+447,202003,Rio de Janeiro,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,1066,RJ,202009
+448,202003,Rio de Janeiro,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,25,RJ,202009
+449,202003,Rio de Janeiro,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,244,RJ,202009
+450,202003,Rio de Janeiro,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,1748,RJ,202009
+451,202004,Rio de Janeiro,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",3111,RJ, 202012
+452,202004,Rio de Janeiro,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,368,RJ, 202012
+453,202004,Rio de Janeiro,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,1107,RJ, 202012
+454,202004,Rio de Janeiro,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,25,RJ, 202012
+455,202004,Rio de Janeiro,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,246,RJ, 202012
+456,202004,Rio de Janeiro,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,1861,RJ, 202012
+457,202001,São Paulo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",13049,SP,202003
+458,202001,São Paulo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,1315,SP,202003
+459,202001,São Paulo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,1936,SP,202003
+460,202001,São Paulo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,147,SP,202003
+461,202001,São Paulo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,1200,SP,202003
+462,202001,São Paulo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,4855,SP,202003
+463,202002,São Paulo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",11341,SP,202006
+464,202002,São Paulo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,1062,SP,202006
+465,202002,São Paulo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,2031,SP,202006
+466,202002,São Paulo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,160,SP,202006
+467,202002,São Paulo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,1078,SP,202006
+468,202002,São Paulo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,4400,SP,202006
+469,202003,São Paulo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",11245,SP,202009
+470,202003,São Paulo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,958,SP,202009
+471,202003,São Paulo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,2041,SP,202009
+472,202003,São Paulo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,161,SP,202009
+473,202003,São Paulo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,1073,SP,202009
+474,202003,São Paulo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,4320,SP,202009
+475,202004,São Paulo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",11723,SP, 202012
+476,202004,São Paulo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,1044,SP, 202012
+477,202004,São Paulo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,2058,SP, 202012
+478,202004,São Paulo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,182,SP, 202012
+479,202004,São Paulo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,981,SP, 202012
+480,202004,São Paulo,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,4670,SP, 202012
+481,202001,Paraná,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",2977,PR,202003
+482,202001,Paraná,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,303,PR,202003
+483,202001,Paraná,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,567,PR,202003
+484,202001,Paraná,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,98,PR,202003
+485,202001,Paraná,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,315,PR,202003
+486,202001,Paraná,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,1338,PR,202003
+487,202002,Paraná,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",2663,PR,202006
+488,202002,Paraná,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,274,PR,202006
+489,202002,Paraná,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,726,PR,202006
+490,202002,Paraná,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,112,PR,202006
+491,202002,Paraná,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,304,PR,202006
+492,202002,Paraná,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,1344,PR,202006
+493,202003,Paraná,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",2609,PR,202009
+494,202003,Paraná,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,250,PR,202009
+495,202003,Paraná,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,649,PR,202009
+496,202003,Paraná,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,114,PR,202009
+497,202003,Paraná,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,288,PR,202009
+498,202003,Paraná,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,1324,PR,202009
+499,202004,Paraná,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",2657,PR, 202012
+500,202004,Paraná,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,267,PR, 202012
+501,202004,Paraná,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,703,PR, 202012
+502,202004,Paraná,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,135,PR, 202012
+503,202004,Paraná,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,323,PR, 202012
+504,202004,Paraná,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,1348,PR, 202012
+505,202001,Santa Catarina,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",2049,SC,202003
+506,202001,Santa Catarina,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,170,SC,202003
+507,202001,Santa Catarina,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,364,SC,202003
+508,202001,Santa Catarina,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,68,SC,202003
+509,202001,Santa Catarina,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,208,SC,202003
+510,202001,Santa Catarina,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,814,SC,202003
+511,202002,Santa Catarina,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",1926,SC,202006
+512,202002,Santa Catarina,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,140,SC,202006
+513,202002,Santa Catarina,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,399,SC,202006
+514,202002,Santa Catarina,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,71,SC,202006
+515,202002,Santa Catarina,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,190,SC,202006
+516,202002,Santa Catarina,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,811,SC,202006
+517,202003,Santa Catarina,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",1880,SC,202009
+518,202003,Santa Catarina,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,121,SC,202009
+519,202003,Santa Catarina,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,385,SC,202009
+520,202003,Santa Catarina,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,93,SC,202009
+521,202003,Santa Catarina,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,192,SC,202009
+522,202003,Santa Catarina,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,861,SC,202009
+523,202004,Santa Catarina,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",1916,SC, 202012
+524,202004,Santa Catarina,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,130,SC, 202012
+525,202004,Santa Catarina,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,384,SC, 202012
+526,202004,Santa Catarina,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,85,SC, 202012
+527,202004,Santa Catarina,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,196,SC, 202012
+528,202004,Santa Catarina,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,875,SC, 202012
+529,202001,Rio Grande do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",2806,RS,202003
+530,202001,Rio Grande do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,316,RS,202003
+531,202001,Rio Grande do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,689,RS,202003
+532,202001,Rio Grande do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,148,RS,202003
+533,202001,Rio Grande do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,292,RS,202003
+534,202001,Rio Grande do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,1417,RS,202003
+535,202002,Rio Grande do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",2533,RS,202006
+536,202002,Rio Grande do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,253,RS,202006
+537,202002,Rio Grande do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,681,RS,202006
+538,202002,Rio Grande do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,162,RS,202006
+539,202002,Rio Grande do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,269,RS,202006
+540,202002,Rio Grande do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,1347,RS,202006
+541,202003,Rio Grande do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",2465,RS,202009
+542,202003,Rio Grande do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,257,RS,202009
+543,202003,Rio Grande do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,644,RS,202009
+544,202003,Rio Grande do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,158,RS,202009
+545,202003,Rio Grande do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,278,RS,202009
+546,202003,Rio Grande do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,1310,RS,202009
+547,202004,Rio Grande do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",2570,RS, 202012
+548,202004,Rio Grande do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,269,RS, 202012
+549,202004,Rio Grande do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,658,RS, 202012
+550,202004,Rio Grande do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,177,RS, 202012
+551,202004,Rio Grande do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,301,RS, 202012
+552,202004,Rio Grande do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,1381,RS, 202012
+553,202001,Mato Grosso do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",616,MS,202003
+554,202001,Mato Grosso do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,103,MS,202003
+555,202001,Mato Grosso do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,176,MS,202003
+556,202001,Mato Grosso do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,15,MS,202003
+557,202001,Mato Grosso do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,76,MS,202003
+558,202001,Mato Grosso do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,309,MS,202003
+559,202002,Mato Grosso do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",545,MS,202006
+560,202002,Mato Grosso do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,83,MS,202006
+561,202002,Mato Grosso do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,188,MS,202006
+562,202002,Mato Grosso do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,14,MS,202006
+563,202002,Mato Grosso do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,63,MS,202006
+564,202002,Mato Grosso do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,280,MS,202006
+565,202003,Mato Grosso do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",555,MS,202009
+566,202003,Mato Grosso do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,86,MS,202009
+567,202003,Mato Grosso do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,184,MS,202009
+568,202003,Mato Grosso do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,13,MS,202009
+569,202003,Mato Grosso do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,68,MS,202009
+570,202003,Mato Grosso do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,266,MS,202009
+571,202004,Mato Grosso do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",573,MS, 202012
+572,202004,Mato Grosso do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,92,MS, 202012
+573,202004,Mato Grosso do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,194,MS, 202012
+574,202004,Mato Grosso do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,19,MS, 202012
+575,202004,Mato Grosso do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,68,MS, 202012
+576,202004,Mato Grosso do Sul,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,279,MS, 202012
+577,202001,Mato Grosso,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",833,MT,202003
+578,202001,Mato Grosso,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,117,MT,202003
+579,202001,Mato Grosso,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,199,MT,202003
+580,202001,Mato Grosso,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,30,MT,202003
+581,202001,Mato Grosso,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,79,MT,202003
+582,202001,Mato Grosso,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,426,MT,202003
+583,202002,Mato Grosso,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",755,MT,202006
+584,202002,Mato Grosso,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,105,MT,202006
+585,202002,Mato Grosso,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,204,MT,202006
+586,202002,Mato Grosso,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,26,MT,202006
+587,202002,Mato Grosso,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,86,MT,202006
+588,202002,Mato Grosso,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,421,MT,202006
+589,202003,Mato Grosso,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",754,MT,202009
+590,202003,Mato Grosso,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,92,MT,202009
+591,202003,Mato Grosso,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,209,MT,202009
+592,202003,Mato Grosso,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,34,MT,202009
+593,202003,Mato Grosso,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,72,MT,202009
+594,202003,Mato Grosso,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,438,MT,202009
+595,202004,Mato Grosso,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",801,MT, 202012
+596,202004,Mato Grosso,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,88,MT, 202012
+597,202004,Mato Grosso,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,215,MT, 202012
+598,202004,Mato Grosso,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,39,MT, 202012
+599,202004,Mato Grosso,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,67,MT, 202012
+600,202004,Mato Grosso,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,443,MT, 202012
+601,202001,Goiás,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",1653,GO,202003
+602,202001,Goiás,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,242,GO,202003
+603,202001,Goiás,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,406,GO,202003
+604,202001,Goiás,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,28,GO,202003
+605,202001,Goiás,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,184,GO,202003
+606,202001,Goiás,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,818,GO,202003
+607,202002,Goiás,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",1537,GO,202006
+608,202002,Goiás,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,198,GO,202006
+609,202002,Goiás,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,385,GO,202006
+610,202002,Goiás,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,29,GO,202006
+611,202002,Goiás,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,148,GO,202006
+612,202002,Goiás,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,759,GO,202006
+613,202003,Goiás,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",1514,GO,202009
+614,202003,Goiás,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,192,GO,202009
+615,202003,Goiás,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,413,GO,202009
+616,202003,Goiás,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,22,GO,202009
+617,202003,Goiás,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,146,GO,202009
+618,202003,Goiás,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,776,GO,202009
+619,202004,Goiás,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",1599,GO, 202012
+620,202004,Goiás,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,184,GO, 202012
+621,202004,Goiás,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,379,GO, 202012
+622,202004,Goiás,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,18,GO, 202012
+623,202004,Goiás,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,142,GO, 202012
+624,202004,Goiás,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,803,GO, 202012
+625,202001,Distrito Federal,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",663,DF,202003
+626,202001,Distrito Federal,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,107,DF,202003
+627,202001,Distrito Federal,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,291,DF,202003
+628,202001,Distrito Federal,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,24,DF,202003
+629,202001,Distrito Federal,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,92,DF,202003
+630,202001,Distrito Federal,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,274,DF,202003
+631,202002,Distrito Federal,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",642,DF,202006
+632,202002,Distrito Federal,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,78,DF,202006
+633,202002,Distrito Federal,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,285,DF,202006
+634,202002,Distrito Federal,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,7,DF,202006
+635,202002,Distrito Federal,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,52,DF,202006
+636,202002,Distrito Federal,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,245,DF,202006
+637,202003,Distrito Federal,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",608,DF,202009
+638,202003,Distrito Federal,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,67,DF,202009
+639,202003,Distrito Federal,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,319,DF,202009
+640,202003,Distrito Federal,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,8,DF,202009
+641,202003,Distrito Federal,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,58,DF,202009
+642,202003,Distrito Federal,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,273,DF,202009
+643,202004,Distrito Federal,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência","Empregado no setor privado, exclusive trabalhador doméstico",638,DF, 202012
+644,202004,Distrito Federal,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador doméstico,76,DF, 202012
+645,202004,Distrito Federal,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregado no setor público,321,DF, 202012
+646,202004,Distrito Federal,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Trabalhador familiar auxiliar,11,DF, 202012
+647,202004,Distrito Federal,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Empregador,69,DF, 202012
+648,202004,Distrito Federal,"Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência",Conta própria,273,DF, 202012

@@ -1,0 +1,217 @@
+,trimestre,uf_nome,variavel,condicao,valor,uf,trimestre_fim
+1,202001,Rondônia,Pessoas de 14 anos ou mais de idade,Força de trabalho,892,RO,202003
+2,202001,Rondônia,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,76,RO,202003
+3,202002,Rondônia,Pessoas de 14 anos ou mais de idade,Força de trabalho,823,RO,202006
+4,202002,Rondônia,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,91,RO,202006
+5,202003,Rondônia,Pessoas de 14 anos ou mais de idade,Força de trabalho,816,RO,202009
+6,202003,Rondônia,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,96,RO,202009
+7,202004,Rondônia,Pessoas de 14 anos ou mais de idade,Força de trabalho,845,RO, 202012
+8,202004,Rondônia,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,94,RO, 202012
+9,202001,Acre,Pessoas de 14 anos ou mais de idade,Força de trabalho,340,AC,202003
+10,202001,Acre,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,47,AC,202003
+11,202002,Acre,Pessoas de 14 anos ou mais de idade,Força de trabalho,339,AC,202006
+12,202002,Acre,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,49,AC,202006
+13,202003,Acre,Pessoas de 14 anos ou mais de idade,Força de trabalho,334,AC,202009
+14,202003,Acre,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,58,AC,202009
+15,202004,Acre,Pessoas de 14 anos ou mais de idade,Força de trabalho,358,AC, 202012
+16,202004,Acre,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,57,AC, 202012
+17,202001,Amazonas,Pessoas de 14 anos ou mais de idade,Força de trabalho,1908,AM,202003
+18,202001,Amazonas,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,279,AM,202003
+19,202002,Amazonas,Pessoas de 14 anos ou mais de idade,Força de trabalho,1751,AM,202006
+20,202002,Amazonas,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,291,AM,202006
+21,202003,Amazonas,Pessoas de 14 anos ou mais de idade,Força de trabalho,1839,AM,202009
+22,202003,Amazonas,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,310,AM,202009
+23,202004,Amazonas,Pessoas de 14 anos ou mais de idade,Força de trabalho,1878,AM, 202012
+24,202004,Amazonas,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,295,AM, 202012
+25,202001,Roraima,Pessoas de 14 anos ou mais de idade,Força de trabalho,255,RR,202003
+26,202001,Roraima,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,42,RR,202003
+27,202002,Roraima,Pessoas de 14 anos ou mais de idade,Força de trabalho,229,RR,202006
+28,202002,Roraima,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,39,RR,202006
+29,202003,Roraima,Pessoas de 14 anos ou mais de idade,Força de trabalho,236,RR,202009
+30,202003,Roraima,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,45,RR,202009
+31,202004,Roraima,Pessoas de 14 anos ou mais de idade,Força de trabalho,246,RR, 202012
+32,202004,Roraima,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,36,RR, 202012
+33,202001,Pará,Pessoas de 14 anos ou mais de idade,Força de trabalho,3874,PA,202003
+34,202001,Pará,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,417,PA,202003
+35,202002,Pará,Pessoas de 14 anos ou mais de idade,Força de trabalho,3546,PA,202006
+36,202002,Pará,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,330,PA,202006
+37,202003,Pará,Pessoas de 14 anos ou mais de idade,Força de trabalho,3706,PA,202009
+38,202003,Pará,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,413,PA,202009
+39,202004,Pará,Pessoas de 14 anos ou mais de idade,Força de trabalho,3839,PA, 202012
+40,202004,Pará,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,420,PA, 202012
+41,202001,Amapá,Pessoas de 14 anos ou mais de idade,Força de trabalho,388,AP,202003
+42,202001,Amapá,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,67,AP,202003
+43,202002,Amapá,Pessoas de 14 anos ou mais de idade,Força de trabalho,343,AP,202006
+44,202002,Amapá,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,39,AP,202006
+45,202003,Amapá,Pessoas de 14 anos ou mais de idade,Força de trabalho,353,AP,202009
+46,202003,Amapá,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,54,AP,202009
+47,202004,Amapá,Pessoas de 14 anos ou mais de idade,Força de trabalho,371,AP, 202012
+48,202004,Amapá,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,59,AP, 202012
+49,202001,Tocantins,Pessoas de 14 anos ou mais de idade,Força de trabalho,728,TO,202003
+50,202001,Tocantins,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,84,TO,202003
+51,202002,Tocantins,Pessoas de 14 anos ou mais de idade,Força de trabalho,691,TO,202006
+52,202002,Tocantins,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,88,TO,202006
+53,202003,Tocantins,Pessoas de 14 anos ou mais de idade,Força de trabalho,671,TO,202009
+54,202003,Tocantins,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,84,TO,202009
+55,202004,Tocantins,Pessoas de 14 anos ou mais de idade,Força de trabalho,719,TO, 202012
+56,202004,Tocantins,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,81,TO, 202012
+57,202001,Maranhão,Pessoas de 14 anos ou mais de idade,Força de trabalho,2644,MA,202003
+58,202001,Maranhão,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,431,MA,202003
+59,202002,Maranhão,Pessoas de 14 anos ou mais de idade,Força de trabalho,2376,MA,202006
+60,202002,Maranhão,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,391,MA,202006
+61,202003,Maranhão,Pessoas de 14 anos ou mais de idade,Força de trabalho,2410,MA,202009
+62,202003,Maranhão,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,417,MA,202009
+63,202004,Maranhão,Pessoas de 14 anos ou mais de idade,Força de trabalho,2502,MA, 202012
+64,202004,Maranhão,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,365,MA, 202012
+65,202001,Piauí,Pessoas de 14 anos ou mais de idade,Força de trabalho,1434,PI,202003
+66,202001,Piauí,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,202,PI,202003
+67,202002,Piauí,Pessoas de 14 anos ou mais de idade,Força de trabalho,1213,PI,202006
+68,202002,Piauí,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,162,PI,202006
+69,202003,Piauí,Pessoas de 14 anos ou mais de idade,Força de trabalho,1319,PI,202009
+70,202003,Piauí,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,174,PI,202009
+71,202004,Piauí,Pessoas de 14 anos ou mais de idade,Força de trabalho,1366,PI, 202012
+72,202004,Piauí,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,167,PI, 202012
+73,202001,Ceará,Pessoas de 14 anos ou mais de idade,Força de trabalho,4143,CE,202003
+74,202001,Ceará,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,513,CE,202003
+75,202002,Ceará,Pessoas de 14 anos ou mais de idade,Força de trabalho,3601,CE,202006
+76,202002,Ceará,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,443,CE,202006
+77,202003,Ceará,Pessoas de 14 anos ou mais de idade,Força de trabalho,3612,CE,202009
+78,202003,Ceará,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,515,CE,202009
+79,202004,Ceará,Pessoas de 14 anos ou mais de idade,Força de trabalho,3858,CE, 202012
+80,202004,Ceará,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,558,CE, 202012
+81,202001,Rio Grande do Norte,Pessoas de 14 anos ou mais de idade,Força de trabalho,1565,RN,202003
+82,202001,Rio Grande do Norte,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,244,RN,202003
+83,202002,Rio Grande do Norte,Pessoas de 14 anos ou mais de idade,Força de trabalho,1366,RN,202006
+84,202002,Rio Grande do Norte,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,209,RN,202006
+85,202003,Rio Grande do Norte,Pessoas de 14 anos ou mais de idade,Força de trabalho,1405,RN,202009
+86,202003,Rio Grande do Norte,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,251,RN,202009
+87,202004,Rio Grande do Norte,Pessoas de 14 anos ou mais de idade,Força de trabalho,1507,RN, 202012
+88,202004,Rio Grande do Norte,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,235,RN, 202012
+89,202001,Paraíba,Pessoas de 14 anos ou mais de idade,Força de trabalho,1672,PB,202003
+90,202001,Paraíba,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,232,PB,202003
+91,202002,Paraíba,Pessoas de 14 anos ou mais de idade,Força de trabalho,1483,PB,202006
+92,202002,Paraíba,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,196,PB,202006
+93,202003,Paraíba,Pessoas de 14 anos ou mais de idade,Força de trabalho,1514,PB,202009
+94,202003,Paraíba,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,262,PB,202009
+95,202004,Paraíba,Pessoas de 14 anos ou mais de idade,Força de trabalho,1615,PB, 202012
+96,202004,Paraíba,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,254,PB, 202012
+97,202001,Pernambuco,Pessoas de 14 anos ou mais de idade,Força de trabalho,4128,PE,202003
+98,202001,Pernambuco,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,611,PE,202003
+99,202002,Pernambuco,Pessoas de 14 anos ou mais de idade,Força de trabalho,3593,PE,202006
+100,202002,Pernambuco,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,552,PE,202006
+101,202003,Pernambuco,Pessoas de 14 anos ou mais de idade,Força de trabalho,3678,PE,202009
+102,202003,Pernambuco,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,709,PE,202009
+103,202004,Pernambuco,Pessoas de 14 anos ou mais de idade,Força de trabalho,3996,PE, 202012
+104,202004,Pernambuco,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,775,PE, 202012
+105,202001,Alagoas,Pessoas de 14 anos ou mais de idade,Força de trabalho,1224,AL,202003
+106,202001,Alagoas,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,204,AL,202003
+107,202002,Alagoas,Pessoas de 14 anos ou mais de idade,Força de trabalho,1112,AL,202006
+108,202002,Alagoas,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,203,AL,202006
+109,202003,Alagoas,Pessoas de 14 anos ou mais de idade,Força de trabalho,1124,AL,202009
+110,202003,Alagoas,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,228,AL,202009
+111,202004,Alagoas,Pessoas de 14 anos ou mais de idade,Força de trabalho,1274,AL, 202012
+112,202004,Alagoas,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,260,AL, 202012
+113,202001,Sergipe,Pessoas de 14 anos ou mais de idade,Força de trabalho,1083,SE,202003
+114,202001,Sergipe,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,171,SE,202003
+115,202002,Sergipe,Pessoas de 14 anos ou mais de idade,Força de trabalho,1006,SE,202006
+116,202002,Sergipe,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,205,SE,202006
+117,202003,Sergipe,Pessoas de 14 anos ou mais de idade,Força de trabalho,990,SE,202009
+118,202003,Sergipe,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,206,SE,202009
+119,202004,Sergipe,Pessoas de 14 anos ou mais de idade,Força de trabalho,1056,SE, 202012
+120,202004,Sergipe,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,193,SE, 202012
+121,202001,Bahia,Pessoas de 14 anos ou mais de idade,Força de trabalho,7081,BA,202003
+122,202001,Bahia,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,1333,BA,202003
+123,202002,Bahia,Pessoas de 14 anos ou mais de idade,Força de trabalho,6125,BA,202006
+124,202002,Bahia,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,1256,BA,202006
+125,202003,Bahia,Pessoas de 14 anos ou mais de idade,Força de trabalho,6246,BA,202009
+126,202003,Bahia,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,1321,BA,202009
+127,202004,Bahia,Pessoas de 14 anos ou mais de idade,Força de trabalho,6614,BA, 202012
+128,202004,Bahia,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,1372,BA, 202012
+129,202001,Minas Gerais,Pessoas de 14 anos ou mais de idade,Força de trabalho,11286,MG,202003
+130,202001,Minas Gerais,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,1320,MG,202003
+131,202002,Minas Gerais,Pessoas de 14 anos ou mais de idade,Força de trabalho,10507,MG,202006
+132,202002,Minas Gerais,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,1385,MG,202006
+133,202003,Minas Gerais,Pessoas de 14 anos ou mais de idade,Força de trabalho,10605,MG,202009
+134,202003,Minas Gerais,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,1443,MG,202009
+135,202004,Minas Gerais,Pessoas de 14 anos ou mais de idade,Força de trabalho,10785,MG, 202012
+136,202004,Minas Gerais,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,1344,MG, 202012
+137,202001,Espírito Santo,Pessoas de 14 anos ou mais de idade,Força de trabalho,2155,ES,202003
+138,202001,Espírito Santo,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,243,ES,202003
+139,202002,Espírito Santo,Pessoas de 14 anos ou mais de idade,Força de trabalho,2022,ES,202006
+140,202002,Espírito Santo,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,255,ES,202006
+141,202003,Espírito Santo,Pessoas de 14 anos ou mais de idade,Força de trabalho,2086,ES,202009
+142,202003,Espírito Santo,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,296,ES,202009
+143,202004,Espírito Santo,Pessoas de 14 anos ou mais de idade,Força de trabalho,2099,ES, 202012
+144,202004,Espírito Santo,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,282,ES, 202012
+145,202001,Rio de Janeiro,Pessoas de 14 anos ou mais de idade,Força de trabalho,8942,RJ,202003
+146,202001,Rio de Janeiro,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,1313,RJ,202003
+147,202002,Rio de Janeiro,Pessoas de 14 anos ou mais de idade,Força de trabalho,8050,RJ,202006
+148,202002,Rio de Janeiro,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,1349,RJ,202006
+149,202003,Rio de Janeiro,Pessoas de 14 anos ou mais de idade,Força de trabalho,8104,RJ,202009
+150,202003,Rio de Janeiro,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,1567,RJ,202009
+151,202004,Rio de Janeiro,Pessoas de 14 anos ou mais de idade,Força de trabalho,8360,RJ, 202012
+152,202004,Rio de Janeiro,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,1641,RJ, 202012
+153,202001,São Paulo,Pessoas de 14 anos ou mais de idade,Força de trabalho,25654,SP,202003
+154,202001,São Paulo,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,3151,SP,202003
+155,202002,São Paulo,Pessoas de 14 anos ou mais de idade,Força de trabalho,23318,SP,202006
+156,202002,São Paulo,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,3247,SP,202006
+157,202003,São Paulo,Pessoas de 14 anos ou mais de idade,Força de trabalho,23411,SP,202009
+158,202003,São Paulo,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,3613,SP,202009
+159,202004,São Paulo,Pessoas de 14 anos ou mais de idade,Força de trabalho,24246,SP, 202012
+160,202004,São Paulo,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,3589,SP, 202012
+161,202001,Paraná,Pessoas de 14 anos ou mais de idade,Força de trabalho,6085,PR,202003
+162,202001,Paraná,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,487,PR,202003
+163,202002,Paraná,Pessoas de 14 anos ou mais de idade,Força de trabalho,5999,PR,202006
+164,202002,Paraná,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,577,PR,202006
+165,202003,Paraná,Pessoas de 14 anos ou mais de idade,Força de trabalho,5851,PR,202009
+166,202003,Paraná,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,617,PR,202009
+167,202004,Paraná,Pessoas de 14 anos ou mais de idade,Força de trabalho,6040,PR, 202012
+168,202004,Paraná,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,608,PR, 202012
+169,202001,Santa Catarina,Pessoas de 14 anos ou mais de idade,Força de trabalho,3896,SC,202003
+170,202001,Santa Catarina,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,223,SC,202003
+171,202002,Santa Catarina,Pessoas de 14 anos ou mais de idade,Força de trabalho,3813,SC,202006
+172,202002,Santa Catarina,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,275,SC,202006
+173,202003,Santa Catarina,Pessoas de 14 anos ou mais de idade,Força de trabalho,3784,SC,202009
+174,202003,Santa Catarina,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,253,SC,202009
+175,202004,Santa Catarina,Pessoas de 14 anos ou mais de idade,Força de trabalho,3790,SC, 202012
+176,202004,Santa Catarina,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,204,SC, 202012
+177,202001,Rio Grande do Sul,Pessoas de 14 anos ou mais de idade,Força de trabalho,6197,RS,202003
+178,202001,Rio Grande do Sul,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,529,RS,202003
+179,202002,Rio Grande do Sul,Pessoas de 14 anos ou mais de idade,Força de trabalho,5806,RS,202006
+180,202002,Rio Grande do Sul,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,562,RS,202006
+181,202003,Rio Grande do Sul,Pessoas de 14 anos ou mais de idade,Força de trabalho,5711,RS,202009
+182,202003,Rio Grande do Sul,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,601,RS,202009
+183,202004,Rio Grande do Sul,Pessoas de 14 anos ou mais de idade,Força de trabalho,5863,RS, 202012
+184,202004,Rio Grande do Sul,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,507,RS, 202012
+185,202001,Mato Grosso do Sul,Pessoas de 14 anos ou mais de idade,Força de trabalho,1406,MS,202003
+186,202001,Mato Grosso do Sul,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,111,MS,202003
+187,202002,Mato Grosso do Sul,Pessoas de 14 anos ou mais de idade,Força de trabalho,1327,MS,202006
+188,202002,Mato Grosso do Sul,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,155,MS,202006
+189,202003,Mato Grosso do Sul,Pessoas de 14 anos ou mais de idade,Força de trabalho,1329,MS,202009
+190,202003,Mato Grosso do Sul,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,157,MS,202009
+191,202004,Mato Grosso do Sul,Pessoas de 14 anos ou mais de idade,Força de trabalho,1354,MS, 202012
+192,202004,Mato Grosso do Sul,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,129,MS, 202012
+193,202001,Mato Grosso,Pessoas de 14 anos ou mais de idade,Força de trabalho,1842,MT,202003
+194,202001,Mato Grosso,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,158,MT,202003
+195,202002,Mato Grosso,Pessoas de 14 anos ou mais de idade,Força de trabalho,1779,MT,202006
+196,202002,Mato Grosso,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,182,MT,202006
+197,202003,Mato Grosso,Pessoas de 14 anos ou mais de idade,Força de trabalho,1780,MT,202009
+198,202003,Mato Grosso,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,181,MT,202009
+199,202004,Mato Grosso,Pessoas de 14 anos ou mais de idade,Força de trabalho,1851,MT, 202012
+200,202004,Mato Grosso,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,197,MT, 202012
+201,202001,Goiás,Pessoas de 14 anos ou mais de idade,Força de trabalho,3765,GO,202003
+202,202001,Goiás,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,434,GO,202003
+203,202002,Goiás,Pessoas de 14 anos ou mais de idade,Força de trabalho,3511,GO,202006
+204,202002,Goiás,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,456,GO,202006
+205,202003,Goiás,Pessoas de 14 anos ou mais de idade,Força de trabalho,3541,GO,202009
+206,202003,Goiás,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,479,GO,202009
+207,202004,Goiás,Pessoas de 14 anos ou mais de idade,Força de trabalho,3580,GO, 202012
+208,202004,Goiás,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,456,GO, 202012
+209,202001,Distrito Federal,Pessoas de 14 anos ou mais de idade,Força de trabalho,1677,DF,202003
+210,202001,Distrito Federal,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,228,DF,202003
+211,202002,Distrito Federal,Pessoas de 14 anos ou mais de idade,Força de trabalho,1552,DF,202006
+212,202002,Distrito Federal,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,242,DF,202006
+213,202003,Distrito Federal,Pessoas de 14 anos ou mais de idade,Força de trabalho,1581,DF,202009
+214,202003,Distrito Federal,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,248,DF,202009
+215,202004,Distrito Federal,Pessoas de 14 anos ou mais de idade,Força de trabalho,1625,DF, 202012
+216,202004,Distrito Federal,Pessoas de 14 anos ou mais de idade,Força de trabalho - desocupada,235,DF, 202012
