@@ -23,6 +23,7 @@ df["valor_total_beneficio"] = df["valor_bolsa_familia_bi"] + df["valor_cadunico_
 
 # Cria a aplicação Dash
 app = dash.Dash()
+server = app.server
 
 # Define o layout da aplicação
 app.layout = html.Div([
