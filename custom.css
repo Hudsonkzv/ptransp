@@ -1,0 +1,44 @@
+/* Fundo escuro */
+body {
+    background-color: #262626;
+    color: #fff;
+}
+
+/* Estilo do título */
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    margin: 2rem 0;
+}
+
+/* Estilo do subtítulo */
+p {
+    font-size: 1.5rem;
+    margin: 1rem 0;
+}
+
+/* Estilo dos dropdowns */
+.Select-control {
+    background-color: #424242;
+    border-color: #424242;
+    color: #fff;
+}
+
+/* Estilo dos botões dos dropdowns */
+.Select-menu-outer {
+    background-color: #424242;
+    color: #fff;
+}
+
+/* Estilo dos labels dos dropdowns */
+.Select-placeholder, .Select-value-label {
+    color: #fff;
+}
+
+/* Estilo do gráfico */
+.plotly-graph-div {
+    background-color: #262626;
+    color: #fff;
+    border: 1px solid #fff;
+}
