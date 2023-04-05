@@ -22,7 +22,11 @@ df["valor_extracad_bi"] = df["valor_extracad"] / 1000000000
 df["valor_total_beneficio"] = df["valor_bolsa_familia_bi"] + df["valor_cadunico_bi"] + df["valor_extracad_bi"]
 
 # Cria a aplicação Dash
-app = dash.Dash()
+
+external_stylesheets = ['https://codepen.io/aybukeceylan/pen/OJRNbZp.css']
+
+app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
+
 server = app.server
 
 # Define o layout da aplicação
