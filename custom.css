@@ -15,6 +15,11 @@ h1 {
     margin: 2rem 0;
 }
 
+.painel {
+    background-color: #262626;
+    color: #fff;
+}
+
 /* Estilo do subtítulo */
 p {
     font-size: 1.5rem;
