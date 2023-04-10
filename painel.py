@@ -21,16 +21,30 @@ df["valor_extracad_bi"] = df["valor_extracad"] / 1000000000
 # Adiciona uma coluna "valor_total_beneficio" para a soma dos valores das três categorias de benefício
 df["valor_total_beneficio"] = df["valor_bolsa_familia_bi"] + df["valor_cadunico_bi"] + df["valor_extracad_bi"]
 
+# Importa uma folha de estilos externa
+external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
+
 # Cria a aplicação Dash
-
-external_stylesheets = ['https://codepen.io/aybukeceylan/pen/OJRNbZp.css']
-
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
 server = app.server
 
+# Define as opções do dropdown de estados
+options = [{'label': uf, 'value': uf} for uf in df['uf'].unique()]
+options.append({'label': 'Brasil', 'value': 'BR'})
+
+# Define estilo para adicionar barra de rolagem e mudar a cor de fundo
+ESTILO = {
+    "overflow-y": "visible",
+    "background-color": "#f3f6fd",
+    "padding": "0px 250px 0px 250px",
+    "margin": "0"
+}
+
 # Define o layout da aplicação
-app.layout = html.Div([
+app.layout = html.Div(
+    style=ESTILO,
+    children=[
     html.H1("Força de Trabalho Desocupada x Valor Total do Auxílio Emergencial"),
     html.Div([
         html.P("Selecione a categoria de benefício:"),
@@ -49,20 +63,38 @@ app.layout = html.Div([
         html.P("Selecione o estado:"),
         dcc.Dropdown(
             id="estado",
-            options=[{"label": estado, "value": estado} for estado in df["uf"].unique()] + [{"label": "Brasil", "value": "Brasil"}],
-            value="Brasil",
+            options=options,
+            value="SP",
         ),
+        html.P(),
     ]),
     dcc.Graph(id="grafico"),
+
+    html.P(),
+
+    html.H1("Evolução da Ocupação por Tipo"),
+
+    html.Div([
+        html.P("Selecione o estado:"),
+        dcc.Dropdown(
+            id="estado_2",
+            options=options,
+            value="SP",
+        ),
+        html.P(),
+    ]),
+    
+    dcc.Graph(id="grafico_2"),
 ])
 
-# Define a função de atualização do gráfico
+# Define a função de atualização do gráfico 1
 @app.callback(
     Output("grafico", "figure"),
     [Input("categoria_beneficio", "value"), Input("estado", "value")],
 )
+
 def atualiza_grafico(categoria_beneficio, estado):
-    if estado == "Brasil":
+    if estado == "BR":
         df_filtrado = df.copy()
     else:
         df_filtrado = df[df["uf"] == estado]
@@ -77,6 +109,38 @@ def atualiza_grafico(categoria_beneficio, estado):
                 'valor_bolsa_familia_bi': 'Valor Auxílio Emergencial - Bolsa Família em R$ bilhões', 'valor_cadunico_bi': 'Valor Auxílio Emergencial - CadÚnico em R$ bilhões',
                 'valor_extracad_bi': 'Valor Auxílio Emergencial - ExtraCadastro em R$ bilhões'}
     )
+
+    return fig
+
+# Define a função de atualização do gráfico 2
+@app.callback(
+        Output("grafico_2", "figure"), 
+        [Input("estado_2", "value")]
+)
+
+def atualiza_grafico_2(estado_2):
+    if estado_2 == 'BR':
+        df_filtrado2 = df.groupby('mes_ref').sum().reset_index()
+        df_filtrado2['mes_ref'] = pd.to_datetime(df_filtrado2['mes_ref'], format='%b/%y')
+    else:
+        df_filtrado2 = df[df['uf'] == estado_2]
+
+    nomes_completos = {'mes_ref':'Mês de Referência', 'value': 'Total de trabalhadores em milhares'}
+
+    fig = px.bar(df_filtrado2, x='mes_ref', y=['forca_trabalho_descoupada', 'forca_conta_propria', 
+                 'forca_privado', 'forca_publico', 'forca_empregador', 'forca_domestico', 'forca_auxiliar'], 
+                 barmode='stack',
+                 labels=nomes_completos)
+
+    # Adiciona a legenda
+    fig.update_layout(legend_title_text='Tipo de Trabalhador')
+    fig.update_traces(hovertemplate='%{y:.2f}', name='Desocupados em milhares', selector=dict(name='forca_trabalho_descoupada'))
+    fig.update_traces(hovertemplate='%{y:.2f}', name='Trabalhadores por conta própria em milhares', selector=dict(name='forca_conta_propria'))
+    fig.update_traces(hovertemplate='%{y:.2f}', name='Trabalhadores do setor privado em milhares', selector=dict(name='forca_privado'))
+    fig.update_traces(hovertemplate='%{y:.2f}', name='Trabalhadores do setor público em milhares', selector=dict(name='forca_publico'))
+    fig.update_traces(hovertemplate='%{y:.2f}', name='Empregadores em milhares', selector=dict(name='forca_empregador'))
+    fig.update_traces(hovertemplate='%{y:.2f}', name='Trabalhadores domésticos em milhares', selector=dict(name='forca_domestico'))
+    fig.update_traces(hovertemplate='%{y:.2f}', name='Trabalhadores familiares auxiliares em milhares', selector=dict(name='forca_auxiliar'))
 
     return fig
 
