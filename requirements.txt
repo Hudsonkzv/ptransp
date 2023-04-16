@@ -1,3 +1,4 @@
 pandas
 dash
+json
 gunicorn
