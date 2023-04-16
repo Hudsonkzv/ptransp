@@ -1,11 +1,13 @@
 # Run this app with `python app.py` and
 # visit http://127.0.0.1:8050/ in your web browser.
 
+from urllib.request import urlopen
+import json
 import pandas as pd
 import dash
 from dash import html, dcc
-import plotly.express as px
 from dash.dependencies import Input, Output
+import plotly.express as px
 
 # Carrega os dados do arquivo CSV
 df = pd.read_csv("https://raw.githubusercontent.com/Hudsonkzv/ptransp/main/aux_pnad_tratada.csv")
@@ -20,6 +22,14 @@ df["valor_extracad_bi"] = df["valor_extracad"] / 1000000000
 
 # Adiciona uma coluna "valor_total_beneficio" para a soma dos valores das três categorias de benefício
 df["valor_total_beneficio"] = df["valor_bolsa_familia_bi"] + df["valor_cadunico_bi"] + df["valor_extracad_bi"]
+
+# Monta o data-frame para geração do mapa
+df_mapa_aux = df[['mes_ref', 'uf', 'valor_total_beneficio']]
+df_mapa_aux = df_mapa_aux.groupby('uf').sum().reset_index()
+
+# Importa o json de estados do Brasil
+with urlopen('https://raw.githubusercontent.com/Hudsonkzv/ptransp/main/brasil_estados.json') as response:
+    geojson = json.load(response)
 
 # Importa uma folha de estilos externa
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
@@ -85,6 +95,31 @@ app.layout = html.Div(
     ]),
     
     dcc.Graph(id="grafico_2"),
+
+    html.P(),
+
+    html.H1("Valor total pago no Auxílio Emergencial por UF"),
+
+    html.P(),
+
+    html.Div([
+        html.P("Selecione a escala de cores a ser exibida: "),
+        dcc.Dropdown(
+        id='cor-da-escala',
+        options=[
+            {'label': 'Vermelho', 'value': 'Reds'},
+            {'label': 'Verde', 'value': 'Greens'},
+            {'label': 'Roxo', 'value': 'Purples'},
+        ],
+        value='Reds'
+         ),
+        html.P(),
+    ]), 
+
+    html.P(),
+
+    dcc.Graph(id='mapa-de-calor'),
+    
 ])
 
 # Define a função de atualização do gráfico 1
@@ -142,6 +177,20 @@ def atualiza_grafico_2(estado_2):
     fig.update_traces(hovertemplate='%{y:.2f}', name='Trabalhadores domésticos em milhares', selector=dict(name='forca_domestico'))
     fig.update_traces(hovertemplate='%{y:.2f}', name='Trabalhadores familiares auxiliares em milhares', selector=dict(name='forca_auxiliar'))
 
+    return fig
+
+# Define a função de atualização do mapa de calor
+@app.callback(Output('mapa-de-calor', 'figure'),
+              Input('cor-da-escala', 'value'))
+
+def update_mapa_de_calor(cor_da_escala):
+
+    fig =  px.choropleth(df_mapa_aux, geojson=geojson, locations='uf', color='valor_total_beneficio',
+                           color_continuous_scale=cor_da_escala,
+                           scope='south america',
+                           labels={'valor_total_beneficio': 'Valor Total Auxílio Emergencial em R$ bilhões'}
+    )
+    
     return fig
 
 if __name__ == '__main__':
